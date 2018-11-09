@@ -5,7 +5,7 @@
 You are tasked with creating a simple map application, that displays breweries and their details on a map.
 Here is a video example and explanation of what you need to build:
 
-
+[Video Instructions](https://youtu.be/yQfTBrQDH4c)
 
 
 ## Checklist
